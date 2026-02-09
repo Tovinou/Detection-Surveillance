@@ -1,0 +1,14 @@
+{
+    "name": "HtmlPage",
+    "version": "1.0.0",
+    "description": "A library to generate HTML pages for the surveillance system.",
+    "keywords": "html, web, esp32",
+    "authors": [
+        {
+            "name": "Gemini",
+            "email": "gemini@google.com"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+}

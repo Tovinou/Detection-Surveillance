@@ -1,0 +1,41 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.sconsign.dblite
+*.elf
+*.bin
+*.map
+compile_commands.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+distance_log.txt
+
+# OS
+.DS_Store
+Thumbs.db

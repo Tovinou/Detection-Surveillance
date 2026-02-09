@@ -1,0 +1,6 @@
+RPi.GPIO; sys_platform == 'linux'
+adafruit-blinka
+adafruit-circuitpython-neopixel
+pyserial
+spidev; sys_platform == 'linux'
+rpi_ws281x; sys_platform == 'linux'
